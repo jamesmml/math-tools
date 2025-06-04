@@ -8,7 +8,6 @@ linear algebra and differential equations:
 - Linear system solver
 
 Author: James Milgram
-
 """
 from sympy import symbols, sympify
 import matplotlib.pyplot as plt
