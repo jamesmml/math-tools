@@ -1,3 +1,15 @@
+"""
+MathToolsUtils.py
+
+This file contain various functions relating to
+linear algebra and differential equations:
+- Determinant calculator
+- ODE solution approximation
+- Linear system solver
+
+Author: James Milgram
+
+"""
 from sympy import symbols, sympify
 import matplotlib.pyplot as plt
 import numpy as np
