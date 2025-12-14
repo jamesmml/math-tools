@@ -4,11 +4,11 @@
 This repository holds various applied mathematical functions and solvers designed from scratch in Python. Topics covered include: linear algebra, differential equations, vector calculus, and complex calculus. These functions were designed after completing various courses.
 
 ## Contents
-[linear_algebra_diff_eqs.ipynb](linear_algebra_diff_eqs.ipynb)
+[Linear Algebra and Differential Equations](linear-algebra-diff-eqs)
+- [exploration.ipynb](linear-algebra-diff-eqs/exploration.ipynb)
+- [utils.py](linear-algebra-diff-eqs/utils.py)
 
-[linear_algebra_diff_eqs.py](linear_algebra_diff_eqs.py) - utils only
-
-(Currently implementing assorted algorithms from vector/complex calculus!!!)
+**(Currently implementing assorted algorithms from vector/complex calculus!!!)**
 
 ## How to Run
 The `.ipynb` files (Jupyter Notebooks) can be run from top to bottom. 
