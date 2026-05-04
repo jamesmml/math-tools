@@ -8,8 +8,6 @@ This repository holds various applied mathematical functions and solvers designe
 - [exploration.ipynb](linear-algebra-diff-eqs/exploration.ipynb)
 - [utils.py](linear-algebra-diff-eqs/utils.py)
 
-**(Currently implementing assorted algorithms from vector/complex calculus!!!)**
-
 ## How to Run
 The `.ipynb` files (Jupyter Notebooks) can be run from top to bottom. 
 
